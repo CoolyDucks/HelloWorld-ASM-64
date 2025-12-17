@@ -1,5 +1,5 @@
 .section .data
-msg: .asciz "Hello World\n"
+msg: .asciz "Hello World\n" // There You Type you're print
 
 .section .text
 .global _start
